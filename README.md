@@ -1,5 +1,9 @@
 🃏 Blackjack Card Game 🎮
+
 A simple web-based Blackjack card game built using HTML, CSS, and Vanilla JavaScript. Play against the computer dealer, track your score, and enjoy a responsive, interactive experience — right in your browser!
+
+
+
 
 🚀 Features
 💳 Fully functional Blackjack rules
